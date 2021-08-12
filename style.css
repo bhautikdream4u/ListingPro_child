@@ -1,0 +1,28 @@
+/*
+ Theme Name:   Listingpro Child
+ Theme URI:    http://studio.cridio.com/listingpro/
+ Description:  Listingpro Child Theme
+ Author:       cridio team
+ Author URI:   http://cridio.com/
+ Template:     listingpro
+ Version:      1.0.0
+ Tags:         listingpro, directory, listing, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  listingpro
+*/
+.login-form-popup .bottom-links a{
+    color: #14113c;
+}
+.footer-about-company li a {
+    color: #96a0a9;
+}
+.footer-about-company li a:hover{
+    color: #9edd05;
+}
+
+.bbb-join-form-block {
+    margin-bottom: 15px;
+}
+.bbb-join-room-input {
+    border: 1px solid #ddd;
+    height: 40px;
+}
